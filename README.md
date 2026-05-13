@@ -19,7 +19,7 @@ step 4: make install.sh executable:
 step 5: execute install.sh:
 `./install.sh`
 
-step 6: fill in your password, some parts of the script use sudo privileges so they will need a pasword.
+step 6: fill in your password, some parts of the script use sudo privileges so they will need a pasword. this password is requested by sudo itself, and is not stored or viewed by the script in any capacity. 
 
 step 7: once the install finishes, reboot your device
 
@@ -43,7 +43,7 @@ here's the binds in an easy to comprehend layout:
 - Win+S - opens noctalia settings
 - Win+L - locks screen
 - Win+R - runner menu
--Win+Shift+space - system monitor
+- Win+Shift+space - system monitor
 
 audio and brightness controls are also mapped, as well as wifi toggle.
 
