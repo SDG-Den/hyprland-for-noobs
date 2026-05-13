@@ -105,6 +105,8 @@ most post-install configuration will be done using the noctalia settings (Win+S)
 hyprmod is there for anything noctalia doesn't configure using theming, settings like the workspace type, adding binds etc can all be done through hyprmod. 
 
 
+for more advanced tweaks, you *may* have to edit the hyprland.conf file, primarily to turn off the nvidia-specific tweaks if you are not running an nvidia card and are experiencing issues. 
+
 
 ### credits and links for software included in this installer: 
 - ghostty - https://github.com/ghostty-org/ghostty
