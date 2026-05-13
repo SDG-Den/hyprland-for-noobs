@@ -35,48 +35,46 @@ here's the binds in an easy to comprehend layout:
 
 ### system functions:
 
-Win+Q - kills the focused window
-Win+Shift+Q - exits hyprland
-Win+Shift+S - opens hyprmod settings menu
-Win+Spacebar - opens application launcher
-Win+Escape - opens the Control Center (quick settings menu)
-Win+S - opens noctalia settings
-Win+L - locks screen
-Win+R - runner menu
-Win+Shift+space - system monitor
+- Win+Q - kills the focused window
+- Win+Shift+Q - exits hyprland
+- Win+Shift+S - opens hyprmod settings menu
+- Win+Spacebar - opens application launcher
+- Win+Escape - opens the Control Center (quick settings menu)
+- Win+S - opens noctalia settings
+- Win+L - locks screen
+- Win+R - runner menu
+-Win+Shift+space - system monitor
 
 audio and brightness controls are also mapped, as well as wifi toggle.
 
 
 ### window management
 
-Win+T - toggle floating
-Win+F - toggle fullscreen
-Win+P - toggle pinned (keeps the item on your screen regardless of workspace, also floats it)
-Win+Shift+P - toggle overlay mode (like pinned, but also removes the border and lowers the opacity of the window)
-Win+Arrow keys - move focus between windows
-Win+Ctrl+Arrow keys - swap windows
-Win+Alt+Arrow keys - resize active window
-Win+LeftMouse - pick up, move and drop windows, this temporarily enables smart split to allow more accurate window placement.
-Win+RightMouse - resize windows
+- Win+T - toggle floating
+- Win+F - toggle fullscreen
+- Win+P - toggle pinned (keeps the item on your screen regardless of workspace, also floats it)
+- Win+Shift+P - toggle overlay mode (like pinned, but also removes the - border and lowers the opacity of the window)
+- Win+Arrow keys - move focus between windows
+- Win+Ctrl+Arrow keys - swap windows
+- Win+Alt+Arrow keys - resize active window
+- Win+LeftMouse - pick up, move and drop windows, this temporarily enables smart split to allow more accurate window placement.
+- Win+RightMouse - resize windows
 
 
 ### Workspaces
 
-Win+[0-9] - go to this workspace
-
-Win+Shift+[0-9] - go to this workspace and take the current focused window with you.
-
-Win+scroll - scroll through workspaces
+- Win+[0-9] - go to this workspace
+- Win+Shift+[0-9] - go to this workspace and take the current focused window with you.
+- Win+scroll - scroll through workspaces
 
 
 ### applications
-Win + Enter/Tab - terminal
-Win + E - filebrowser
-Win + Shift + E - terminal filebrowser
-Win + B - web browser
-Win + N - notes
-Win + V - clipboard
+- Win + Enter/Tab - terminal
+- Win + E - filebrowser
+- Win + Shift + E - terminal filebrowser
+- Win + B - web browser
+- Win + N - notes
+- Win + V - clipboard
 
 
 
