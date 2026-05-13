@@ -4,7 +4,7 @@ sudo pacman -Syu
 
 sudo pacman -S yay
 
-yay -S alacritty btop cava vesktop fuzzel gtk hyprland noctalia-shell steam code yazi python3 nautilus obsidian brightnessctl imagemagick python ddcutil cliphist wlsunset xdg-desktop-portal evolution-data-server adw-gtk-theme nwg-look python-pywalfox
+yay -S ghostty btop cava vesktop fuzzel gtk hyprland noctalia-shell steam code yazi python3 nautilus obsidian brightnessctl imagemagick python ddcutil cliphist wlsunset xdg-desktop-portal evolution-data-server adw-gtk-theme nwg-look python-pywalfox
 
 mkdir ~/.config/hypr
 
